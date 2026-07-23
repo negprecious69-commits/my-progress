@@ -1,0 +1,5 @@
+name = input("name")
+age = input("age" )
+country = input("country")
+university = input("university")
+course = input("course")
